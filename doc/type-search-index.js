@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"BaseClass","l":"BaseClass"},{"p":"PageClass","l":"SearchPage"},{"p":"PageClass","l":"TripAdvisorMainPage"},{"p":"TestClass","l":"TripCostTestClass"}];updateSearchResults();
